@@ -6,3 +6,7 @@
 `~/fib $ cargo run`
 
 `~/fib $ cargo build`
+
+### The Code
+
+`length_mode()` and `range_mode()` are the two main functions this program cosists of. The other functions are for io and error handeling
