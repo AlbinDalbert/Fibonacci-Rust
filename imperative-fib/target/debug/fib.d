@@ -1,1 +1,1 @@
-/home/deb/Documents/plugg/programsprak/rust/fib/target/debug/fib: /home/deb/Documents/plugg/programsprak/rust/fib/src/main.rs
+/home/deb/Documents/plugg/programsprak/rust/imperative-fib/target/debug/fib: /home/deb/Documents/plugg/programsprak/rust/imperative-fib/src/main.rs
