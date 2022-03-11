@@ -1,11 +1,19 @@
 # Fibonacci-Rust
 
 ### To run the code
-`fib` is a cargo, thus all that is needed is to navigate to the root directory of the cargo and run
+`imperative-fib`, `functional-fib` and `object-oriented-fib` are cargos, thus all that is needed is to navigate to the root directory of the cargo and run
 
-`~/fib $ cargo run`
+`~/imperative-fib $ cargo run`
 
-`~/fib $ cargo build`
+`~/imperative-fib $ cargo build`
+
+`~/functional-fib $ cargo run`
+
+`~/functional-fib $ cargo build`
+
+`~/object-oriented-fib $ cargo run`
+
+`~/object-oriented-fib $ cargo build`
 
 ### The Code
 
